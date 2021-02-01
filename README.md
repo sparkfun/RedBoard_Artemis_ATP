@@ -1,7 +1,7 @@
 SparkFun RedBoard Artemis ATP
 ============================
 
-![SparkFun RedBoard Artemis ATP](https://cdn.sparkfun.com/assets/parts/1/4/0/1/7/15442-SparkFun_RedBoard_Artemis_ATP-01.jpg)
+![SparkFun RedBoard Artemis ATP](https://cdn.sparkfun.com//assets/parts/1/4/0/1/7/15442-SparkFun_RedBoard_Artemis_ATP-05.jpg)
 
 [*SparkFun RedBoard Artemis ATP (DEV-15442)*](https://www.sparkfun.com/products/15442)
 
